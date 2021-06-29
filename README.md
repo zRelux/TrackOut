@@ -32,6 +32,6 @@ If you like TrackOut and would like contribute you are more than welcome! Our ro
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars.githubusercontent.com/u/23509971?v=4" width="100px;"/><br /><sub><b>Leonardo Drici</b></sub>](http://zrelux.github.com)<br />[💬]("Answering Questions") [💻]("Code") [🎨]("Design") [📖]("Documentation") [💡]("Ideas, Planning, & Feedback") [👀]("Reviewed Pull Requests") [⚠️]("Tests") |
+[<img src="https://avatars.githubusercontent.com/u/23509971?v=4" width="100px;"/><br /><sub><b>Leonardo Drici</b></sub>](http://zrelux.github.com)<br />💬 💻 🎨 📖 💡 👀 ⚠️
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
